@@ -29,7 +29,7 @@ TUTO3 = '''
         Elige uno de los diccionarios
            para realizar el ataque
 
-1.txt       2.txt      3.txt     4.txt    5.txt
+1.txt       2.txt      3.txt     4.j.txt
 '''
 TUTO4 = '''
 \033[1;33;40m
@@ -111,8 +111,8 @@ def check():
             No existe el diccionario
             Intenta con los archivos
 
-1.txt       2.txt      3.txt     4.txt    5.txt                            
-""").encode('utf-8'))
+1.txt       2.txt      3.txt     4.j.txt                           
+""").encode('txt'))
         sys.exit(1)
     except KeyboardInterrupt:
         print "\n Cerrando Programa .."
