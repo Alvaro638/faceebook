@@ -7,3 +7,4 @@ pip2 install mechanize
 git clone https://github.com/Alvaro638
 cd facebook
 python2 facebook.py
+Python2 faceebook.py
