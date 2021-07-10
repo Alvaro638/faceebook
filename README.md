@@ -1,4 +1,4 @@
-# FB
+
 # Fuerza Bruta-Facebook
 # Comandos de instalacion
 pkg install git
