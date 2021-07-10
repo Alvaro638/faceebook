@@ -10,7 +10,7 @@
 
 -pip2 install mechanize
 
--git clone https://github.com/Alvaro638
+-git clone https://github.com/Alvaro638/faceebook.py
 
 -cd facebook
 
