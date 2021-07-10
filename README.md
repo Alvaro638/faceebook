@@ -12,7 +12,7 @@
 
 -git clone https://github.com/Alvaro638/faceebook.py
 
--cd facebook
+-cd faceebook
 
 -python2 facebook.py
 
