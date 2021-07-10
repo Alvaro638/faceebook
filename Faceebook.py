@@ -76,15 +76,6 @@ def search():
         attack(password.replace("\n",""))
 
 
-Send:
-sender_name = face
-sender_mail = alvaroobregon638@gmail.com
-sender_pass = sofia231216.
-
-receiver_name = tofac
-receiver_mail = alvaroobregon638@gmail.com
-
-
 
 def check():
     global br
